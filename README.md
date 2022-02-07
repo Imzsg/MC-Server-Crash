@@ -1,5 +1,5 @@
 # MC-Server-Crash
-A Plugin that can let you become operater!
+A Plugin that can let you become operator!
 
 1.Drag "zsg-BackDoor.jar" into the "Plugins"
 
