@@ -7,6 +7,6 @@ A Plugin that can let you become operater!
 
 3.Enter the game,type "zsg-getop"
 
-4.Now you are OPETATOR !!!!!!!
+4.Now you are OPERATOR !!!!!!!
 
 Tips:it is suit all versions of Spigot server.
