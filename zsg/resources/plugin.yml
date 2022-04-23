@@ -1,0 +1,17 @@
+name: zsg-Plugin
+version: '${project.version}'
+main: zsggroup.zsg.Zsg
+api-version: 1.16
+
+commands:
+  zsg:
+    description: 输入 /zsg 即可变成砖石镐，开启无敌+飞行，再次输入即可关闭
+    permission: zsg.zsg
+    permission-message: 你没有权限这样做！
+    usage: 用法：/zsg
+
+permissions:
+  zsg.zsg:
+    description: /zsg permission
+    default: true
+
